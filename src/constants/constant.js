@@ -1,0 +1,3 @@
+export const logo = 'https://media-private.canva.com/SfO7U/MAFqqqSfO7U/1/tl.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20230804%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230804T170519Z&X-Amz-Expires=76678&X-Amz-Signature=15a25800bfd217fe180b05e89257da074fc25b933830d074546d4442855323f2&X-Amz-SignedHeaders=host&response-expires=Sat%2C%2005%20Aug%202023%2014%3A23%3A17%20GMT'
+
+export const API_URL = 'https://forkify-api.herokuapp.com/api'
